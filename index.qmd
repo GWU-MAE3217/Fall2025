@@ -1,0 +1,132 @@
+---
+title: Fluid Mechanics Laboratory 
+subtitle: where fluid mechamics comes to life!
+format:
+  html:
+    code-copy: false
+---
+:::{.callout-important}
+**Referencing the content in this course:**
+
+Bulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mechanical and Aerospace Engineering, The George Washington University.
+:::
+
+<!-- :::{.callout-important}
+**Registartion:**
+[Registration link](https://events.vtools.ieee.org/event/register/437187)
+::: -->
+
+## Course description
+<html>
+<head>
+    <style>
+        body {
+            -webkit-user-select: none; /* Safari */
+            -moz-user-select: none; /* Firefox */
+            -ms-user-select: none; /* IE10+/Edge */
+            user-select: none; /* Standard */
+        }
+    </style>
+</head>
+<body>
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 75%;
+}
+
+.right {
+  width: 25%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+This course teaches the basics of fluid properties, fluid statics, integral and
+differential formulations of conservation of mass, momentum, and energy. As well as Bernoulli’s
+equation, dimensional analysis and similitude, and both inviscid and viscous flow. Experimental
+and computational methods in fluid mechanics will be discussed. 
+ </div>
+
+ <div class="column">
+ <!-- "float: left;  -->
+<img src="/images/noun-iot-2623360_copy.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;" /><br>
+ <p><font size="1">IoT by Alla Zaleuska from <a href="https://thenounproject.com/browse/icons/term/iot/" target="_blank" title="IoT Icons">Noun Project</a></font></p>
+ </div>
+</div> 
+<br>
+The attached course outline is subject to change depending on the pace of the class. Pay
+attention to the location of each meeting. Sometimes you will be in the GW assigned classroom,
+and sometimes you will be in the Fluids Lab.
+
+<strong>The attendees will be expected to bring their own laptops, books and writing instruments</strong>
+
+<strong>The students will be expected to work </strong>
+
+- in small groups using a limited number of hardware components and WiFi connectivity that will be provided.
+
+## Course Prerequisites 
+ApSc 2058
+
+<!-- ::: {.callout-note}
+Note that there are five types of callouts, including:
+`note`, `warning`, `important`, `tip`, and `caution`.
+::: -->
+
+::: {.callout-tip}
+## Time & Location
+**SEH B1280 and/or SEH B1200** 
+
+**Meeting times**
+
+- Section 31: Wednesday 11:10 AM - 12:25 PM
+- Section 32: Wednesday 12:45 PM - 02:00 PM
+- Section 30: Wednesday 03:45 PM - 05:00 PM
+:::
+
+<!-- ::: {.callout-caution collapse="true"}
+## Expand To Learn About Collapse
+
+This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default.
+:::
+:::{.callout-note}
+## Time & Location of the Workshop
+**Thomas Jefferson Meeting Room 1**
+[Thomas Jefferson Library](https://www.fairfaxcounty.gov/library/branches/thomas-jefferson) 
+7415 Arlington Boulevard 
+Falls Church, VA 22042
+
+**Meeting time**
+9:00 AM – 12:00 Noon
+::: -->
+
+<!-- :::{.callout-note}
+Lecture times are from 
+::: -->
+
+<!-- This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>. -->

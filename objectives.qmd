@@ -1,0 +1,41 @@
+---
+title: "Learning Objectives"
+format: 
+  html:
+    code-copy: false
+---
+
+<html>
+<head>
+    <style>
+        body {
+            -webkit-user-select: none; /* Safari */
+            -moz-user-select: none; /* Firefox */
+            -ms-user-select: none; /* IE10+/Edge */
+            user-select: none; /* Standard */
+        }
+    </style>
+</head>
+<body>
+
+:::{.callout-important}
+**Referencing the content in this course:**
+
+Bulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mechanical and Aerospace Engineering, The George Washington University.
+:::
+
+<!-- ## Course Learning Outcomes -->
+By the end of the course, you should be able to
+
+1. Demonstrate an understanding of fluid properties including the measure of the property and its dependence on pressure and temperature.
+
+2.  Demonstrate the ability to solve hydrostatic problems involving manometers, hydrostatic forces on planar and curved surfaces, and hydraulics.
+
+3. Demonstrate the ability to solve fluid dynamics problems involving conservation of mass, momentum, and energy for viscous and inviscid flow.
+
+4. Demonstrate an understanding of similitude and dimensional analysis. Correctly apply these concepts to fluids problems.
+
+5. Demonstrate an ability to apply mathematics and physics to problems involving fluid mechanics.
+
+
+
