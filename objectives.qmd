@@ -25,11 +25,16 @@ Bulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mec
 :::
 
 <!-- ## Course Learning Outcomes -->
-By the end of the course, you should be able to
+
+<img src="/images/noun-bernoulli-578376.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;" /><br>
+ <p><font size="1">
+ Source: bernoulli by Ivan Novelo from <a href="https://thenounproject.com/browse/icons/term/bernoulli/" target="_blank" title="bernoulli Icons">Noun Project</a> (CC BY 3.0)</font></p>
+
+**By the end of the course, you should be able to**
 
 1. Demonstrate an understanding of fluid properties including the measure of the property and its dependence on pressure and temperature.
 
-2.  Demonstrate the ability to solve hydrostatic problems involving manometers, hydrostatic forces on planar and curved surfaces, and hydraulics.
+2. Demonstrate the ability to solve hydrostatic problems involving manometers, hydrostatic forces on planar and curved surfaces, and hydraulics.
 
 3. Demonstrate the ability to solve fluid dynamics problems involving conservation of mass, momentum, and energy for viscous and inviscid flow.
 

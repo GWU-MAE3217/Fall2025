@@ -19,27 +19,27 @@ website:
       - href: objectives.qmd
         text: Learning Objectives       
       - href: agenda.qmd
-        text: Agenda 
+        text: Schedule 
       - href: instructor.qmd
         text: Instructor
-      - section: "Getting Started (Prerequisites)"
-        contents: 
-          - href: install-editor.qmd
-            text: Installations on your personal machine
-          - section: "Real VNC&reg; Viewer"
-            contents: 
-              - href: realvnc-mac.qmd
-                text: Mac
-              - href: realvnc-windows.qmd
-                text: Windows   
-          - href: thingspeak.qmd
-            text: ThingSpeak
-          - section: "Connecting your laptop to the Raspberry Pi"
-            contents: 
-              - href: realvnc-mac-connect.qmd
-                text: Mac
-              - href: realvnc-windows-connect.qmd
-                text: Windows                       
+      # - section: "Getting Started (Prerequisites)"
+      #   contents: 
+      #     - href: install-editor.qmd
+      #       text: Installations on your personal machine
+      #     - section: "Real VNC&reg; Viewer"
+      #       contents: 
+      #         - href: realvnc-mac.qmd
+      #           text: Mac
+      #         - href: realvnc-windows.qmd
+      #           text: Windows   
+      #     - href: thingspeak.qmd
+      #       text: ThingSpeak
+      #     - section: "Connecting your laptop to the Raspberry Pi"
+      #       contents: 
+      #         - href: realvnc-mac-connect.qmd
+      #           text: Mac
+      #         - href: realvnc-windows-connect.qmd
+      #           text: Windows                       
 
 
 format:

@@ -65,40 +65,30 @@ Bulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mec
 
 <div class="row">
   <div class="column">
-This course teaches the basics of fluid properties, fluid statics, integral and
-differential formulations of conservation of mass, momentum, and energy. As well as Bernoulli’s
-equation, dimensional analysis and similitude, and both inviscid and viscous flow. Experimental
-and computational methods in fluid mechanics will be discussed. 
+This <strong>laboratory course</strong> teaches the following topics through experiments and recitations: 
+
+- Usage of basic of fluid properties, fluid statics 
+- Laboratory-based application of Integral and differential formulations of conservation of mass, momentum, and energy
+- Laboratory-based application Bernoulli’s equation, dimensional analysis and similitude
+- Applications of inviscid and viscous flow. 
+- Experiments and introductory-level Python Programming in fluid mechanics 
  </div>
 
  <div class="column">
  <!-- "float: left;  -->
-<img src="/images/noun-iot-2623360_copy.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;" /><br>
- <p><font size="1">IoT by Alla Zaleuska from <a href="https://thenounproject.com/browse/icons/term/iot/" target="_blank" title="IoT Icons">Noun Project</a></font></p>
+<img src="/images/noun-fluid-dynamics-5399410.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;" /><br>
+ <p><font size="1">
+ Sourece: fluid dynamics by M. Oki Orlando from <a href="https://thenounproject.com/browse/icons/term/fluid-dynamics/" target="_blank" title="fluid dynamics Icons">Noun Project</a> (CC BY 3.0)</font></p>
  </div>
 </div> 
 <br>
-The attached course outline is subject to change depending on the pace of the class. Pay
-attention to the location of each meeting. Sometimes you will be in the GW assigned classroom,
-and sometimes you will be in the Fluids Lab.
 
-<strong>The attendees will be expected to bring their own laptops, books and writing instruments</strong>
-
-<strong>The students will be expected to work </strong>
-
-- in small groups using a limited number of hardware components and WiFi connectivity that will be provided.
-
-## Course Prerequisites 
-ApSc 2058
-
-<!-- ::: {.callout-note}
-Note that there are five types of callouts, including:
-`note`, `warning`, `important`, `tip`, and `caution`.
-::: -->
 
 ::: {.callout-tip}
-## Time & Location
-**SEH B1280 and/or SEH B1200** 
+## Location & Time
+**SEH B1200: Laboratory** 
+
+**SEH B1280: Recitation** 
 
 **Meeting times**
 
@@ -106,6 +96,36 @@ Note that there are five types of callouts, including:
 - Section 32: Wednesday 12:45 PM - 02:00 PM
 - Section 30: Wednesday 03:45 PM - 05:00 PM
 :::
+
+## Additional Course Information
+- <strong>The course outline presented on this webpage is subject to change depending on the pace of the class. </strong> Pay attention to the location of each meeting. Sometimes you will be in the GW assigned classroom, and sometimes you will be in the Fluids Lab.
+
+- <strong>The attendees will be expected to bring their own laptops, books and writing instruments.</strong>
+
+- <strong>The students will be expected to work in small groups using a limited number of hardware components and WiFi connectivity that will be made available.</strong>
+
+## Course Prerequisites 
+ApSc 2058
+
+:::{.callout-important}
+<!-- - Our staff is limiting the use of Linux OS-based laptops and cannot support them this semester.  -->
+**Kindly note that**
+
+- Your personal machine should be able to connect to the WiFi network provided at the location. 
+
+- **The instruction team does not provide Computer Tech support** unless there are minor issues that could be sorted out.  
+
+- **We prefer that your computer**
+    - is a laptop, with either MacOS 12+ or Windows 10+ operating system 
+    - has a standard US keyboard layout i.e, a QWERTY keyboard. 
+        - The QWERTY (pronounced KWEHR-tee) keyboard is the standard typewriter and computer keyboard in countries that use a Latin-based alphabet.
+:::
+<!-- ::: {.callout-note}
+Note that there are five types of callouts, including:
+`note`, `warning`, `important`, `tip`, and `caution`.
+::: -->
+
+
 
 <!-- ::: {.callout-caution collapse="true"}
 ## Expand To Learn About Collapse
