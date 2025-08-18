@@ -51,7 +51,7 @@ Bulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mec
 - Recitation Problems: 20%
 - Ethics poster/assignments: 25% [Note: Gradiing rubric for the poster presentation will be provided to the students]
 
-## Grading policy:
+## Grading policy
 
 - Late submissions on Homework and projects will not be acceptable.
 - There is no required final exam.
