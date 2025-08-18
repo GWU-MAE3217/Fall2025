@@ -14,14 +14,17 @@ website:
     contents: 
       - href: index.qmd
         text: Home
-      - href: guidelines.qmd
-        text: Course Guidelines and Student Responsiblities
+      # - href: guidelines.qmd
+      #   text: Course Guidelines and Student Responsiblities
       - href: objectives.qmd
-        text: Learning Objectives       
+        text: Learning Objectives  
+      - href: policies.qmd
+        text: Grading and Course Policies             
       - href: agenda.qmd
         text: Schedule 
       - href: instructor.qmd
         text: Instructor
+
       # - section: "Getting Started (Prerequisites)"
       #   contents: 
       #     - href: install-editor.qmd

@@ -107,6 +107,15 @@ This <strong>laboratory course</strong> teaches the following topics through exp
 ## Course Prerequisites 
 ApSc 2058
 
+## Audience and credit-level
+The course is designed for junior-level undergraduate students as a 1-credit course. 
+
+<!-- ## Workload
+This course will have 150 minutes of lecture time per week, that includes approximately 60-75 minutes of hands-on, microlab work. The course requires between 2-4 hours per week on average for homework assignments or project-based deliverables. -->
+
+## Textbook, hardware and other course material
+There is no textbook requirement for this course. All reading, hardware and course material will be provided by the instructor.
+
 :::{.callout-important}
 <!-- - Our staff is limiting the use of Linux OS-based laptops and cannot support them this semester.  -->
 **Kindly note that**

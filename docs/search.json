@@ -59,148 +59,6 @@
     "text": "Installation Steps\n\n0. Download the installation file here\n\n\n1. Install VNC Viewer\nLocate the downloaded installer file (e.g., VNC-Viewer-*.exe) and double-click it to run the installer. Once the installation is complete, click “Finish” to exit the installer.\n\n\n\nOpen Installer\n\n\n\n\n\nRun Installer\n\n\n\n\n3. Follow Installation Wizard\nThe installation wizard will guide you through the installation process. Click on “Customize installation” and “Deselect RealVNC Server” and hit “Install”.\n\n\n\nSelect English as the peferred language\n\n\n\n\n\nClick on Next\n\n\n\n\n\nAccept terms and conditions, and click Next.\n\n\n\n\n\nSelect installation location\n\n\n\n\n\nClick on Install\n\n\n\n\n\nFinish installation\n\n\n\n\n\n\n4. Launch RealVNC Viewer\nOnce the installation is complete, you can launch RealVNC Viewer from Start.\n\n\n\nOpen RealVNC\n\n\n\n\n\nWhen prompted click on “Sign in to get Started and hit cancel button\n\n\nIf prompted to Log in/Sign Up hit “Cancel”, you’re NOT REQUIRED to sign up.\n\n\n\nHit Cancel button"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Fluid Mechanics Laboratory",
-    "section": "",
-    "text": "Important\n\n\n\nReferencing the content in this course:\nBulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mechanical and Aerospace Engineering, The George Washington University.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "Fluid Mechanics Laboratory",
-    "section": "Course description",
-    "text": "Course description\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis laboratory course teaches the following topics through experiments and recitations:\n\nUsage of basic of fluid properties, fluid statics\nLaboratory-based application of Integral and differential formulations of conservation of mass, momentum, and energy\nLaboratory-based application Bernoulli’s equation, dimensional analysis and similitude\nApplications of inviscid and viscous flow.\nExperiments and introductory-level Python Programming in fluid mechanics\n\n\n\n \n\n Sourece: fluid dynamics by M. Oki Orlando from Noun Project (CC BY 3.0)\n\n\n\n\n\n\n\n\n\n\nLocation & Time\n\n\n\nSEH B1200: Laboratory\nSEH B1280: Recitation\nMeeting times\n\nSection 31: Wednesday 11:10 AM - 12:25 PM\nSection 32: Wednesday 12:45 PM - 02:00 PM\nSection 30: Wednesday 03:45 PM - 05:00 PM\n\n\n\n\nAdditional Course Information\n\nThe course outline presented on this webpage is subject to change depending on the pace of the class.  Pay attention to the location of each meeting. Sometimes you will be in the GW assigned classroom, and sometimes you will be in the Fluids Lab.\nThe attendees will be expected to bring their own laptops, books and writing instruments.\nThe students will be expected to work in small groups using a limited number of hardware components and WiFi connectivity that will be made available.\n\n\n\nCourse Prerequisites\nApSc 2058\n\n\n\n\n\n\nImportant\n\n\n\n\nKindly note that\n\nYour personal machine should be able to connect to the WiFi network provided at the location.\nThe instruction team does not provide Computer Tech support unless there are minor issues that could be sorted out.\nWe prefer that your computer\n\nis a laptop, with either MacOS 12+ or Windows 10+ operating system\nhas a standard US keyboard layout i.e, a QWERTY keyboard.\n\nThe QWERTY (pronounced KWEHR-tee) keyboard is the standard typewriter and computer keyboard in countries that use a Latin-based alphabet.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#additional-course-information",
-    "href": "index.html#additional-course-information",
-    "title": "Fluid Mechanics Laboratory",
-    "section": "Additional Course Information",
-    "text": "Additional Course Information\n\nThe course outline presented on this webpage is subject to change depending on the pace of the class.  Pay attention to the location of each meeting. Sometimes you will be in the GW assigned classroom, and sometimes you will be in the Fluids Lab.\nThe attendees will be expected to bring their own laptops, books and writing instruments.\nThe students will be expected to work in small groups using a limited number of hardware components and WiFi connectivity that will be made available.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#course-prerequisites",
-    "href": "index.html#course-prerequisites",
-    "title": "Fluid Mechanics Laboratory",
-    "section": "Course Prerequisites",
-    "text": "Course Prerequisites\nApSc 2058\n\n\n\n\n\n\nImportant\n\n\n\n\nKindly note that\n\nYour personal machine should be able to connect to the WiFi network provided at the location.\nThe instruction team does not provide Computer Tech support unless there are minor issues that could be sorted out.\nWe prefer that your computer\n\nis a laptop, with either MacOS 12+ or Windows 10+ operating system\nhas a standard US keyboard layout i.e, a QWERTY keyboard.\n\nThe QWERTY (pronounced KWEHR-tee) keyboard is the standard typewriter and computer keyboard in countries that use a Latin-based alphabet.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "objectives.html",
-    "href": "objectives.html",
-    "title": "Learning Objectives",
-    "section": "",
-    "text": "Important\n\n\n\nReferencing the content in this course:\nBulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mechanical and Aerospace Engineering, The George Washington University.\n\n\n\n\n\n Source: bernoulli by Ivan Novelo from Noun Project (CC BY 3.0)\n\nBy the end of the course, you should be able to\n\nDemonstrate an understanding of fluid properties including the measure of the property and its dependence on pressure and temperature.\nDemonstrate the ability to solve hydrostatic problems involving manometers, hydrostatic forces on planar and curved surfaces, and hydraulics.\nDemonstrate the ability to solve fluid dynamics problems involving conservation of mass, momentum, and energy for viscous and inviscid flow.\nDemonstrate an understanding of similitude and dimensional analysis. Correctly apply these concepts to fluids problems.\nDemonstrate an ability to apply mathematics and physics to problems involving fluid mechanics.",
-    "crumbs": [
-      "Learning Objectives"
-    ]
-  },
-  {
-    "objectID": "guidelines.html",
-    "href": "guidelines.html",
-    "title": "Course guidelines and student responsibilities",
-    "section": "",
-    "text": "Important\n\n\n\nReferencing the content in this course:\nBulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mechanical and Aerospace Engineering, The George Washington University.\nWe ask that all attendees adhere to the following workshop guidelines and responsibilities while attending:",
-    "crumbs": [
-      "Course Guidelines and Student Responsiblities"
-    ]
-  },
-  {
-    "objectID": "guidelines.html#justice-equity-diversity-inclusion-jedi-statement",
-    "href": "guidelines.html#justice-equity-diversity-inclusion-jedi-statement",
-    "title": "Course guidelines and student responsibilities",
-    "section": "Justice, Equity, Diversity, Inclusion (JEDI) statement",
-    "text": "Justice, Equity, Diversity, Inclusion (JEDI) statement\n\n\n\nThe instructor intends to facilitates learning for students from all diverse backgrounds and perspectives by this course. The diversity that the attendees bring to this workshop is viewed as a resource, strength, and benefit. The workshop materials and activities presented are intended to be respectful of: age, race, ethnicity, country of origin, language, religion, spiritual practice, sexual orientation, gender identity or expression, introversion/extroversion personality dimensions, and socioeconomic and mental/physical status.\n\n\n\n \n\nemployee diversity by Bold Yellow from Noun Project\n\n\n\n\nPlease let the main instructor know ways to improve the effectiveness of the course.",
-    "crumbs": [
-      "Course Guidelines and Student Responsiblities"
-    ]
-  },
-  {
-    "objectID": "guidelines.html#use-of-chatgpt-or-any-other-ai-based-models-workshop",
-    "href": "guidelines.html#use-of-chatgpt-or-any-other-ai-based-models-workshop",
-    "title": "Course guidelines and student responsibilities",
-    "section": "Use of chatGPT or any other AI-based models workshop",
-    "text": "Use of chatGPT or any other AI-based models workshop\nThe use chatGPT or any other genreative AI-based tool is NOT PERMITTED.\nThe use chatGPT or any other AI-based models will be explicitly permitted by the instructor on select assignments and programming projects. In all other instances where a course deliverable does not entail permitted use of chatGPT or any other AI-based models, the instructors will have the students sign a disclosure form. This form will require that the students document specific prompts used and the outputs generated.\nFurthermore, the ethical issues regarding the use of chatGPT or any other AI-based models will be discussed in-class and course policy will be ammended according to the findings. The findings of any such discussions will be summarized and placed in-context of the Academic Integrity Code\n Resources that will guide the course policy changes during the course: \n\n\nchatGPT Course policy formulation\n\n\nchatGPT chatbot\n\n\nHow ChatGPT Could Transform Higher Education\n\n–&gt;",
-    "crumbs": [
-      "Course Guidelines and Student Responsiblities"
-    ]
-  },
-  {
-    "objectID": "guidelines.html#use-of-electronic-course-materials-and-class-recordings",
-    "href": "guidelines.html#use-of-electronic-course-materials-and-class-recordings",
-    "title": "Course guidelines and student responsibilities",
-    "section": "Use of Electronic Course Materials and Class Recordings",
-    "text": "Use of Electronic Course Materials and Class Recordings\nStudents are encouraged to use electronic course materials, including recorded class sessions (if any), for private personal use in connection with their academic program of study. Electronic course materials and recorded class sessions should not be shared or used for non-course related purposes unless express permission has been granted by the instructor. Students who impermissibly share any electronic course materials are subject to discipline under the Student Code of Conduct. Please contact the instructor if you have questions regarding what constitutes permissible or impermissible use of electronic course materials and/or recorded class sessions. Please contact Disability Support Services if you have questions or need assistance in accessing electronic course materials. –&gt;",
-    "crumbs": [
-      "Course Guidelines and Student Responsiblities"
-    ]
-  },
-  {
-    "objectID": "guidelines.html#university-policy-on-religious-holidays",
-    "href": "guidelines.html#university-policy-on-religious-holidays",
-    "title": "Course guidelines and student responsibilities",
-    "section": "University Policy on Religious Holidays",
-    "text": "University Policy on Religious Holidays\n\nStudents should notify faculty during the first week of the semester of their intention to be absent from class on their day(s) of religious observance.\nFaculty should extend to these students the courtesy of absence without penalty on such occasions, including permission to make up examinations.\nFaculty who intend to observe a religious holiday should arrange at the beginning of the semester to reschedule missed classes or to make other provisions for their course‐related activities.\n\nFor details and policy, see “Religious Holidays” at https://provost.gwu.edu/policies-procedures-and-guidelines",
-    "crumbs": [
-      "Course Guidelines and Student Responsiblities"
-    ]
-  },
-  {
-    "objectID": "realvnc-mac-connect.html",
-    "href": "realvnc-mac-connect.html",
-    "title": "Connect the Raspberry Pi on Macintosh machine",
-    "section": "",
-    "text": "Important\n\n\n\nReferencing the content in this workshop:\nBulusu, Kartik V. (2024, October 12). Connect, Compute and Communicate! Practical introduction to a DIY internet of things system. [Workshop for the IEEE Northern Virigina Section and IEEE Computer Society]. Department of Mechanical and Aerospace Engineering, The George Washington University."
-  },
-  {
-    "objectID": "realvnc-mac-connect.html#prerequisites",
-    "href": "realvnc-mac-connect.html#prerequisites",
-    "title": "Connect the Raspberry Pi on Macintosh machine",
-    "section": "Prerequisites",
-    "text": "Prerequisites\nBefore you begin, ensure that you have already installed RealVNC on your Mac."
-  },
-  {
-    "objectID": "realvnc-mac-connect.html#establish-a-connection",
-    "href": "realvnc-mac-connect.html#establish-a-connection",
-    "title": "Connect the Raspberry Pi on Macintosh machine",
-    "section": "Establish a Connection",
-    "text": "Establish a Connection\n\n1. Launch RealVNC Viewer\nLaunch VNC Viewer from the Launchpad.\n\n\n\nOpen RealVNC Viewer\n\n\nIf prompted to Log in/Sign Up hit “Cancel”, you’re NOT REQUIRED to sign up.\n\n\n\nDon’t Sign up\n\n\n\n\n2. Connect to a Raspberry Pi\nTo connect to a Raspberry Pi, launch RealVNC Viewer, enter the “raspberrypi.local” on the box into the address bar, and hit Enter. You may need to enter the login credentials for the Raspberry Pi.\n\n\n\n\nConnect to the Pi\n\n\n\n\n\n3. Enjoy Remote Desktop Access\nYou are now connected to the Raspberry Pi, and you can control it.\n\n\n\nRemote Connection Successfull\n\n\n\n\n4. Disconnect\nTo disconnect from the Raspberry Pi, simply close the VNC Viewer window."
-  },
-  {
-    "objectID": "realvnc-mac-connect.html#conclusion",
-    "href": "realvnc-mac-connect.html#conclusion",
-    "title": "Connect the Raspberry Pi on Macintosh machine",
-    "section": "Conclusion",
-    "text": "Conclusion\nYou have successfully established connection to the Pi, allowing you to access and control it with ease.\nFor more information and support, you can visit the RealVNC website."
-  },
-  {
-    "objectID": "thingspeak.html",
-    "href": "thingspeak.html",
-    "title": "Creating a ThingSpeak Account",
-    "section": "",
-    "text": "Important\n\n\n\nReferencing the content in this workshop:\nBulusu, Kartik V. (2024, October 12). Connect, Compute and Communicate! Practical introduction to a DIY internet of things system. [Workshop for the IEEE Northern Virigina Section and IEEE Computer Society]. Department of Mechanical and Aerospace Engineering, The George Washington University."
-  },
-  {
-    "objectID": "thingspeak.html#steps-to-create-your-thingspeak-account",
-    "href": "thingspeak.html#steps-to-create-your-thingspeak-account",
-    "title": "Creating a ThingSpeak Account",
-    "section": "Steps to Create Your ThingSpeak Account",
-    "text": "Steps to Create Your ThingSpeak Account\nThingSpeak is a platform for the Internet of Things (IoT) that allows you to collect, analyze, and visualize data from sensors. Follow these steps to create your account:\n\n1. Access the MathWorks Sign-In Page\nNavigate to the MathWorks sign-in page. You’ll see a form similar to this:\n\n\n\nMathWorks sign-in page\n\n\n\n\n2. Create a New Account\nIf you don’t have an account, click on “Create one!” to start the account creation process.\n\n\n\nCreate MathWorks Account\n\n\nFill in your details, including your email address, location, and name.\n\n\n3. Use Your Work or University Email\nFor accessing your organization’s MATLAB license, it’s recommended to use your work or university email.\n\n\n\nPersonal Email Detected\n\n\nIf you entered a personal email, you may see a warning. You can choose to continue with your personal email or switch to a work/university email.\n\n\n4. Verify Your Email\nAfter submitting your information, you’ll need to verify your email address.\n\n\n\nVerify Your MathWorks Account\n\n\nCheck your inbox for the verification email and follow the link provided.\n\n\n5. Complete Your Profile\nThe final step is to set up your password and accept the terms of service.\n\n\n\nFinish Your Profile\n\n\nCreate a strong password and make sure to check the box to accept the Online Services Agreement.\n\n\n6. Access ThingSpeak\nOnce your MathWorks account is set up, you can use these credentials to log into ThingSpeak and start your IoT projects!\nRemember, ThingSpeak offers powerful tools for data aggregation and analytics, allowing you to connect smart devices and develop algorithms for sensor analytics using MATLAB."
-  },
-  {
     "objectID": "instructor.html#dr.-kartik-bulusu-instructor",
     "href": "instructor.html#dr.-kartik-bulusu-instructor",
     "title": "Instructor",
@@ -248,6 +106,263 @@
     "text": "Lucy Treumper (Undergraduate Teaching Assistant)\n\n\n\n  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Nunc ac dignissim magna. Vestibulum vitae egestas elit. Proin feugiat leo quis ante condimentum, eu ornare mauris feugiat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris cursus laoreet ex, dignissim bibendum est posuere iaculis. Suspendisse et maximus elit. In fringilla gravida ornare. Aenean id lectus pulvinar, sagittis felis nec, rutrum risus. Nam vel neque eu arcu blandit fringilla et in quam. Aliquam luctus est sit amet vestibulum eleifend. Phasellus elementum sagittis molestie. Proin tempor lorem arcu, at condimentum purus volutpat eu. Fusce et pellentesque ligula. Pellentesque id tellus at erat luctus fringilla. Suspendisse potenti.Etiam maximus accumsan gravida. Maecenas at nunc dignissim, euismod enim ac, bibendum ipsum. Maecenas vehicula velit in nisl aliquet ultricies. Nam eget massa interdum, maximus arcu vel, pretium erat. Maecenas sit amet tempor purus, vitae aliquet nunc. Vivamus cursus urna velit, eleifend dictum magna laoreet ut. Duis eu erat mollis, blandit magna id, tincidunt ipsum. Integer massa nibh, commodo eu ex vel, venenatis efficitur ligula. Integer convallis lacus elit, maximus eleifend lacus ornare ac. Vestibulum scelerisque viverra urna id lacinia. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget enim at diam bibendum tincidunt eu non purus. Nullam id magna ultrices, sodales metus viverra, tempus turpis.Duis ornare ex ac iaculis pretium. Maecenas sagittis odio id erat pharetra, sit amet consectetur quam sollicitudin. Vivamus pharetra quam purus, nec sagittis risus pretium at. Nullam feugiat, turpis ac accumsan interdum, sem tellus blandit neque, id vulputate diam quam semper nisl. Donec sit amet enim at neque porttitor aliquet. Phasellus facilisis nulla eget placerat eleifend. Vestibulum non egestas eros, eget lobortis ipsum. Nulla rutrum massa eget enim aliquam, id porttitor erat luctus. Nunc sagittis quis eros eu sagittis. Pellentesque dictum, erat at pellentesque sollicitudin, justo augue pulvinar metus, quis rutrum est mi nec felis. Vestibulum efficitur mi lorem, at elementum purus tincidunt a. Aliquam finibus enim magna, vitae pellentesque erat faucibus at. Nulla mauris tellus, imperdiet id lobortis et, dignissim condimentum ipsum. Morbi nulla orci, varius at aliquet sed, facilisis id tortor. Donec ut urna nisi.Aenean placerat luctus tortor vitae molestie. Nulla at aliquet nulla. Sed efficitur tellus orci, sed fringilla lectus laoreet eget. Vivamus maximus quam sit amet arcu dignissim, sed accumsan massa ullamcorper. Sed iaculis tincidunt feugiat. Nulla in est at nunc ultricies dictum ut vitae nunc. Aenean convallis vel diam at malesuada. Suspendisse arcu libero, vehicula tempus ultrices a, placerat sit amet tortor. Sed dictum id nulla commodo mattis. Aliquam mollis, nunc eu tristique faucibus, purus lacus tincidunt nulla, ac pretium lorem nunc ut enim. Curabitur eget mattis nisl, vitae sodales augue. Nam felis massa, bibendum sit amet nulla vel, vulputate rutrum lacus. Aenean convallis odio pharetra nulla mattis consequat.\n\n\n\n\n\n\n&lt;/td&gt;",
     "crumbs": [
       "Instructor"
+    ]
+  },
+  {
+    "objectID": "thingspeak.html",
+    "href": "thingspeak.html",
+    "title": "Creating a ThingSpeak Account",
+    "section": "",
+    "text": "Important\n\n\n\nReferencing the content in this workshop:\nBulusu, Kartik V. (2024, October 12). Connect, Compute and Communicate! Practical introduction to a DIY internet of things system. [Workshop for the IEEE Northern Virigina Section and IEEE Computer Society]. Department of Mechanical and Aerospace Engineering, The George Washington University."
+  },
+  {
+    "objectID": "thingspeak.html#steps-to-create-your-thingspeak-account",
+    "href": "thingspeak.html#steps-to-create-your-thingspeak-account",
+    "title": "Creating a ThingSpeak Account",
+    "section": "Steps to Create Your ThingSpeak Account",
+    "text": "Steps to Create Your ThingSpeak Account\nThingSpeak is a platform for the Internet of Things (IoT) that allows you to collect, analyze, and visualize data from sensors. Follow these steps to create your account:\n\n1. Access the MathWorks Sign-In Page\nNavigate to the MathWorks sign-in page. You’ll see a form similar to this:\n\n\n\nMathWorks sign-in page\n\n\n\n\n2. Create a New Account\nIf you don’t have an account, click on “Create one!” to start the account creation process.\n\n\n\nCreate MathWorks Account\n\n\nFill in your details, including your email address, location, and name.\n\n\n3. Use Your Work or University Email\nFor accessing your organization’s MATLAB license, it’s recommended to use your work or university email.\n\n\n\nPersonal Email Detected\n\n\nIf you entered a personal email, you may see a warning. You can choose to continue with your personal email or switch to a work/university email.\n\n\n4. Verify Your Email\nAfter submitting your information, you’ll need to verify your email address.\n\n\n\nVerify Your MathWorks Account\n\n\nCheck your inbox for the verification email and follow the link provided.\n\n\n5. Complete Your Profile\nThe final step is to set up your password and accept the terms of service.\n\n\n\nFinish Your Profile\n\n\nCreate a strong password and make sure to check the box to accept the Online Services Agreement.\n\n\n6. Access ThingSpeak\nOnce your MathWorks account is set up, you can use these credentials to log into ThingSpeak and start your IoT projects!\nRemember, ThingSpeak offers powerful tools for data aggregation and analytics, allowing you to connect smart devices and develop algorithms for sensor analytics using MATLAB."
+  },
+  {
+    "objectID": "realvnc-mac-connect.html",
+    "href": "realvnc-mac-connect.html",
+    "title": "Connect the Raspberry Pi on Macintosh machine",
+    "section": "",
+    "text": "Important\n\n\n\nReferencing the content in this workshop:\nBulusu, Kartik V. (2024, October 12). Connect, Compute and Communicate! Practical introduction to a DIY internet of things system. [Workshop for the IEEE Northern Virigina Section and IEEE Computer Society]. Department of Mechanical and Aerospace Engineering, The George Washington University."
+  },
+  {
+    "objectID": "realvnc-mac-connect.html#prerequisites",
+    "href": "realvnc-mac-connect.html#prerequisites",
+    "title": "Connect the Raspberry Pi on Macintosh machine",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nBefore you begin, ensure that you have already installed RealVNC on your Mac."
+  },
+  {
+    "objectID": "realvnc-mac-connect.html#establish-a-connection",
+    "href": "realvnc-mac-connect.html#establish-a-connection",
+    "title": "Connect the Raspberry Pi on Macintosh machine",
+    "section": "Establish a Connection",
+    "text": "Establish a Connection\n\n1. Launch RealVNC Viewer\nLaunch VNC Viewer from the Launchpad.\n\n\n\nOpen RealVNC Viewer\n\n\nIf prompted to Log in/Sign Up hit “Cancel”, you’re NOT REQUIRED to sign up.\n\n\n\nDon’t Sign up\n\n\n\n\n2. Connect to a Raspberry Pi\nTo connect to a Raspberry Pi, launch RealVNC Viewer, enter the “raspberrypi.local” on the box into the address bar, and hit Enter. You may need to enter the login credentials for the Raspberry Pi.\n\n\n\n\nConnect to the Pi\n\n\n\n\n\n3. Enjoy Remote Desktop Access\nYou are now connected to the Raspberry Pi, and you can control it.\n\n\n\nRemote Connection Successfull\n\n\n\n\n4. Disconnect\nTo disconnect from the Raspberry Pi, simply close the VNC Viewer window."
+  },
+  {
+    "objectID": "realvnc-mac-connect.html#conclusion",
+    "href": "realvnc-mac-connect.html#conclusion",
+    "title": "Connect the Raspberry Pi on Macintosh machine",
+    "section": "Conclusion",
+    "text": "Conclusion\nYou have successfully established connection to the Pi, allowing you to access and control it with ease.\nFor more information and support, you can visit the RealVNC website."
+  },
+  {
+    "objectID": "guidelines.html",
+    "href": "guidelines.html",
+    "title": "Course guidelines and student responsibilities",
+    "section": "",
+    "text": "Important\n\n\n\nReferencing the content in this course:\nBulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mechanical and Aerospace Engineering, The George Washington University.\nWe ask that all attendees adhere to the following workshop guidelines and responsibilities while attending:"
+  },
+  {
+    "objectID": "guidelines.html#justice-equity-diversity-inclusion-jedi-statement",
+    "href": "guidelines.html#justice-equity-diversity-inclusion-jedi-statement",
+    "title": "Course guidelines and student responsibilities",
+    "section": "Justice, Equity, Diversity, Inclusion (JEDI) statement",
+    "text": "Justice, Equity, Diversity, Inclusion (JEDI) statement\n\n\n\nThe instructor intends to facilitates learning for students from all diverse backgrounds and perspectives by this course. The diversity that the attendees bring to this workshop is viewed as a resource, strength, and benefit. The workshop materials and activities presented are intended to be respectful of: age, race, ethnicity, country of origin, language, religion, spiritual practice, sexual orientation, gender identity or expression, introversion/extroversion personality dimensions, and socioeconomic and mental/physical status.\n\n\n\n \n\nemployee diversity by Bold Yellow from Noun Project\n\n\n\n\nPlease let the main instructor know ways to improve the effectiveness of the course."
+  },
+  {
+    "objectID": "guidelines.html#use-of-chatgpt-or-any-other-ai-based-models-workshop",
+    "href": "guidelines.html#use-of-chatgpt-or-any-other-ai-based-models-workshop",
+    "title": "Course guidelines and student responsibilities",
+    "section": "Use of chatGPT or any other AI-based models workshop",
+    "text": "Use of chatGPT or any other AI-based models workshop\nThe use chatGPT or any other genreative AI-based tool is NOT PERMITTED.\nThe use chatGPT or any other AI-based models will be explicitly permitted by the instructor on select assignments and programming projects. In all other instances where a course deliverable does not entail permitted use of chatGPT or any other AI-based models, the instructors will have the students sign a disclosure form. This form will require that the students document specific prompts used and the outputs generated.\nFurthermore, the ethical issues regarding the use of chatGPT or any other AI-based models will be discussed in-class and course policy will be ammended according to the findings. The findings of any such discussions will be summarized and placed in-context of the Academic Integrity Code\n Resources that will guide the course policy changes during the course: \n\n\nchatGPT Course policy formulation\n\n\nchatGPT chatbot\n\n\nHow ChatGPT Could Transform Higher Education\n\n–&gt;"
+  },
+  {
+    "objectID": "guidelines.html#use-of-electronic-course-materials-and-class-recordings",
+    "href": "guidelines.html#use-of-electronic-course-materials-and-class-recordings",
+    "title": "Course guidelines and student responsibilities",
+    "section": "Use of Electronic Course Materials and Class Recordings",
+    "text": "Use of Electronic Course Materials and Class Recordings\nStudents are encouraged to use electronic course materials, including recorded class sessions (if any), for private personal use in connection with their academic program of study. Electronic course materials and recorded class sessions should not be shared or used for non-course related purposes unless express permission has been granted by the instructor. Students who impermissibly share any electronic course materials are subject to discipline under the Student Code of Conduct. Please contact the instructor if you have questions regarding what constitutes permissible or impermissible use of electronic course materials and/or recorded class sessions. Please contact Disability Support Services if you have questions or need assistance in accessing electronic course materials. –&gt;"
+  },
+  {
+    "objectID": "guidelines.html#university-policy-on-religious-holidays",
+    "href": "guidelines.html#university-policy-on-religious-holidays",
+    "title": "Course guidelines and student responsibilities",
+    "section": "University Policy on Religious Holidays",
+    "text": "University Policy on Religious Holidays\n\nStudents should notify faculty during the first week of the semester of their intention to be absent from class on their day(s) of religious observance.\nFaculty should extend to these students the courtesy of absence without penalty on such occasions, including permission to make up examinations.\nFaculty who intend to observe a religious holiday should arrange at the beginning of the semester to reschedule missed classes or to make other provisions for their course‐related activities.\n\nFor details and policy, see “Religious Holidays” at https://provost.gwu.edu/policies-procedures-and-guidelines"
+  },
+  {
+    "objectID": "objectives.html",
+    "href": "objectives.html",
+    "title": "Learning Objectives",
+    "section": "",
+    "text": "Important\n\n\n\nReferencing the content in this course:\nBulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mechanical and Aerospace Engineering, The George Washington University.\n\n\n\n\n\n Source: bernoulli by Ivan Novelo from Noun Project (CC BY 3.0)\n\nBy the end of the course, you should be able to\n\nDemonstrate an understanding of fluid properties including the measure of the property and its dependence on pressure and temperature.\nDemonstrate the ability to solve hydrostatic problems involving manometers, hydrostatic forces on planar and curved surfaces, and hydraulics.\nDemonstrate the ability to solve fluid dynamics problems involving conservation of mass, momentum, and energy for viscous and inviscid flow.\nDemonstrate an understanding of similitude and dimensional analysis. Correctly apply these concepts to fluids problems.\nDemonstrate an ability to apply mathematics and physics to problems involving fluid mechanics.",
+    "crumbs": [
+      "Learning Objectives"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fluid Mechanics Laboratory",
+    "section": "",
+    "text": "Important\n\n\n\nReferencing the content in this course:\nBulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mechanical and Aerospace Engineering, The George Washington University.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Fluid Mechanics Laboratory",
+    "section": "Course description",
+    "text": "Course description\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis laboratory course teaches the following topics through experiments and recitations:\n\nUsage of basic of fluid properties, fluid statics\nLaboratory-based application of Integral and differential formulations of conservation of mass, momentum, and energy\nLaboratory-based application Bernoulli’s equation, dimensional analysis and similitude\nApplications of inviscid and viscous flow.\nExperiments and introductory-level Python Programming in fluid mechanics\n\n\n\n \n\n Sourece: fluid dynamics by M. Oki Orlando from Noun Project (CC BY 3.0)\n\n\n\n\n\n\n\n\n\n\nLocation & Time\n\n\n\nSEH B1200: Laboratory\nSEH B1280: Recitation\nMeeting times\n\nSection 31: Wednesday 11:10 AM - 12:25 PM\nSection 32: Wednesday 12:45 PM - 02:00 PM\nSection 30: Wednesday 03:45 PM - 05:00 PM\n\n\n\n\nAdditional Course Information\n\nThe course outline presented on this webpage is subject to change depending on the pace of the class.  Pay attention to the location of each meeting. Sometimes you will be in the GW assigned classroom, and sometimes you will be in the Fluids Lab.\nThe attendees will be expected to bring their own laptops, books and writing instruments.\nThe students will be expected to work in small groups using a limited number of hardware components and WiFi connectivity that will be made available.\n\n\n\nCourse Prerequisites\nApSc 2058\n\n\nAudience and credit-level\nThe course is designed for junior-level undergraduate students as a 1-credit course.\n\n\n\nTextbook, hardware and other course material\nThere is no textbook requirement for this course. All reading, hardware and course material will be provided by the instructor.\n\n\n\n\n\n\nImportant\n\n\n\n\nKindly note that\n\nYour personal machine should be able to connect to the WiFi network provided at the location.\nThe instruction team does not provide Computer Tech support unless there are minor issues that could be sorted out.\nWe prefer that your computer\n\nis a laptop, with either MacOS 12+ or Windows 10+ operating system\nhas a standard US keyboard layout i.e, a QWERTY keyboard.\n\nThe QWERTY (pronounced KWEHR-tee) keyboard is the standard typewriter and computer keyboard in countries that use a Latin-based alphabet.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#additional-course-information",
+    "href": "index.html#additional-course-information",
+    "title": "Fluid Mechanics Laboratory",
+    "section": "Additional Course Information",
+    "text": "Additional Course Information\n\nThe course outline presented on this webpage is subject to change depending on the pace of the class.  Pay attention to the location of each meeting. Sometimes you will be in the GW assigned classroom, and sometimes you will be in the Fluids Lab.\nThe attendees will be expected to bring their own laptops, books and writing instruments.\nThe students will be expected to work in small groups using a limited number of hardware components and WiFi connectivity that will be made available.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#course-prerequisites",
+    "href": "index.html#course-prerequisites",
+    "title": "Fluid Mechanics Laboratory",
+    "section": "Course Prerequisites",
+    "text": "Course Prerequisites\nApSc 2058",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#audience-and-credit-level",
+    "href": "index.html#audience-and-credit-level",
+    "title": "Fluid Mechanics Laboratory",
+    "section": "Audience and credit-level",
+    "text": "Audience and credit-level\nThe course is designed for junior-level undergraduate students as a 1-credit course.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#textbook-hardware-and-other-course-material",
+    "href": "index.html#textbook-hardware-and-other-course-material",
+    "title": "Fluid Mechanics Laboratory",
+    "section": "Textbook, hardware and other course material",
+    "text": "Textbook, hardware and other course material\nThere is no textbook requirement for this course. All reading, hardware and course material will be provided by the instructor.\n\n\n\n\n\n\nImportant\n\n\n\n\nKindly note that\n\nYour personal machine should be able to connect to the WiFi network provided at the location.\nThe instruction team does not provide Computer Tech support unless there are minor issues that could be sorted out.\nWe prefer that your computer\n\nis a laptop, with either MacOS 12+ or Windows 10+ operating system\nhas a standard US keyboard layout i.e, a QWERTY keyboard.\n\nThe QWERTY (pronounced KWEHR-tee) keyboard is the standard typewriter and computer keyboard in countries that use a Latin-based alphabet.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "Course policies",
+    "section": "",
+    "text": "Important\n\n\n\nReferencing the content in this course:\nBulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mechanical and Aerospace Engineering, The George Washington University.",
+    "crumbs": [
+      "Grading and Course Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#grading-policy",
+    "href": "policies.html#grading-policy",
+    "title": "Course policies",
+    "section": "Grading policy:",
+    "text": "Grading policy:\n\nLate submissions on Homework and projects will not be acceptable.\nThere is no required final exam.\nThere may be instances in the presentations where peer-evaluations may be introduced at the discretion of the instructor.\nThe instructor will seeks inputs from the class and decide if course projects will be done individfually, in groups or in a combination.\n\nThe grade for the laboratories, recitations and ethics poste will be awared only the student demonstrates all the following:\n\nAttendance\nSatisfactory performance and conduct during the laboratory and recitation sessions and\nMaintains Academic Integrity\n\nThe instructor may at any time escalate, academic intergrity issues with any potential incident of academic dishonesty, before Conflict Education & Student Accountability (CESA) in The George Washington University.",
+    "crumbs": [
+      "Grading and Course Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#classroom-policies-and-student-responsibilities",
+    "href": "policies.html#classroom-policies-and-student-responsibilities",
+    "title": "Course policies",
+    "section": "Classroom Policies and Student responsibilities",
+    "text": "Classroom Policies and Student responsibilities\n\n\n\n\nThe course is designed with experiential learning modules provided in each session.\n\n\nThis course requires a combination of individual and group work entailing hands-on activities and frequent interactions with the instructional team.\n\n\nThe laboratory and recitation sessions and, office hours are available for interacting with your group and the instructor. We ask that all students adhere to the course policies throughout the duration of the semester.\n\n\n\n\n\nclassroom by Chattapat from Noun Project\n\n\n\n\n\nBe respectful:\n\nListen to the instructor. Keep an open mind to the course material presented.\nLimit the use of personal devices.\nBe aware that you are working in a group.\nRespect each other’s opinion during dicusssions.\n\nBe responsible:\n\nArrive on time.\nSubmit the course deliverables on time.\nHelp your team members\n\nBe a communicator:\n\nObserve, Ask questions and Try out the materials presented during the course.\nCommunicate with your team effectively and politely.\nAn email informing the instructor about your absence is necessary, if you are not planning to attend the lecture and lab session during the course.\n\nThe requests about making up graded-labs or any in-class activities will be considered but with prior initmation and time constraints of the course.\n\n\nBe a problem solver:\n\nExplore options to complete hands-on tasks.\nMake your own notes.\nStay positive about the course outcomes.",
+    "crumbs": [
+      "Grading and Course Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#communication-during-extenuating-circumstances",
+    "href": "policies.html#communication-during-extenuating-circumstances",
+    "title": "Course policies",
+    "section": "Communication during extenuating circumstances",
+    "text": "Communication during extenuating circumstances\nWhen you need to communicate with us directly regarding extenuating circumstances, please use Blackboard to send email or email the instructor directly.\n\nThe instructor will check emails on Mondays and may respond at their earliest convenience.",
+    "crumbs": [
+      "Grading and Course Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#late-work-policy",
+    "href": "policies.html#late-work-policy",
+    "title": "Course policies",
+    "section": "Late work policy",
+    "text": "Late work policy\nLate work is not accepted, with the following exceptions:\n\nExtensions will be granted should there arise due to circumstances beyond your control that impede your ability to complete coursework and turn in a deliverable on time.\nNotify your professor as soon as feasible in these cases. Examples of such circumstances include (but are not limited to) illness, death in the family, and loss of housing.\nTo ensure fairness toward all students, the instructor will request documentation of such circumstances.",
+    "crumbs": [
+      "Grading and Course Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#statement-on-the-classroom-activities",
+    "href": "policies.html#statement-on-the-classroom-activities",
+    "title": "Course policies",
+    "section": "Statement on the classroom activities",
+    "text": "Statement on the classroom activities\n\n\n\n\nThe instructor intends to support the course needs of all students with diverse backgrounds and perspectives in this course.\n\n\nThe instructor believes that the diversity that the students bring to this class is a resource, strength, and an asset.\n\n\nThe instructor will strive to present material that is respectful of the diverse backgrounds and characteristics of the student body and the instructional team.\n\n\nThe course materials and activities presented in this course are intended to be respectful of: age, race, ethnicity, country of origin, language, religion, spiritual practice, sexual orientation, gender identity or expression, introversion/extroversion personality dimensions, and socioeconomic and mental/physical status.\n\n\nEach of us, whether student or instructional team member, is expected to treat all others with respect.\n\n\nDisrespect in any form will not be tolerated.\n\n\n\n\n\nemployee diversity by Bold Yellow from Noun Project\n\n\n\n\n\n\nPlease let the instructor know ways to improve the effectiveness of the course.",
+    "crumbs": [
+      "Grading and Course Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#use-of-chatgpt-or-any-other-ai-based-models-for-in-class-work-and-deliverables",
+    "href": "policies.html#use-of-chatgpt-or-any-other-ai-based-models-for-in-class-work-and-deliverables",
+    "title": "Course policies",
+    "section": "Use of chatGPT or any other AI-based models for in-class work and deliverables",
+    "text": "Use of chatGPT or any other AI-based models for in-class work and deliverables\nThe use of chatGPT or any other generative AI-based models is not permitted by the instructor unless the instructor provides prioir approvals for all the students registered in the course.\n\nIf there are instances where chatGPT or any other generative AI-based models are allowed they will be explicitly communicated by the instructor on select assignments and programming projects.\nIn all other instances where a course deliverable does not entail permitted use of chatGPT or any other AI-based models, the instructors will have the students sign a disclosure form. This form will require that the students document specific prompts used and the outputs generated.\nAny violations of the aforementioned policy will be reviewed under the Academic Integrity Code and Student Rights and Responsibities\n\nFurthermore, the ethical issues regarding the use of chatGPT or any other AI-based models will be discussed in-class and course policy will be ammended according to the findings. The findings of any such discussions will be summarized and placed in-context of the Academic Integrity Code\n Resources that will guide the course policy changes during the course: \n\n\nchatGPT Course policy formulation\n\n\nchatGPT chatbot\n\n\nHow ChatGPT Could Transform Higher Education",
+    "crumbs": [
+      "Grading and Course Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#use-of-electronic-course-materials-and-class-recordings",
+    "href": "policies.html#use-of-electronic-course-materials-and-class-recordings",
+    "title": "Course policies",
+    "section": "Use of Electronic Course Materials and Class Recordings",
+    "text": "Use of Electronic Course Materials and Class Recordings\nStudents are encouraged to use electronic course materials, including recorded class sessions (if any), for private personal use in connection with their academic program of study. Electronic course materials and recorded class sessions should not be shared or used for non-course related purposes unless express permission has been granted by the instructor. Students who impermissibly share any electronic course materials are subject to discipline under the Student Code of Conduct. Please contact the instructor if you have questions regarding what constitutes permissible or impermissible use of electronic course materials and/or recorded class sessions. Please contact Disability Support Services if you have questions or need assistance in accessing electronic course materials.",
+    "crumbs": [
+      "Grading and Course Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#university-policy-on-religious-holidays",
+    "href": "policies.html#university-policy-on-religious-holidays",
+    "title": "Course policies",
+    "section": "University Policy on Religious Holidays",
+    "text": "University Policy on Religious Holidays\n\nStudents should notify faculty during the first week of the semester of their intention to be absent from class on their day(s) of religious observance.\nFaculty should extend to these students the courtesy of absence without penalty on such occasions, including permission to make up examinations.\nFaculty who intend to observe a religious holiday should arrange at the beginning of the semester to reschedule missed classes or to make other provisions for their course‐related activities. For details and policy, see “Religious Holidays” at https://provost.gwu.edu/policies-procedures-and-guidelines",
+    "crumbs": [
+      "Grading and Course Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#support-for-students-outside-the-classroom",
+    "href": "policies.html#support-for-students-outside-the-classroom",
+    "title": "Course policies",
+    "section": "Support for Students Outside the Classroom",
+    "text": "Support for Students Outside the Classroom\nDisability Support Services (DSS) 202‐994‐8250\nAny student who may need an accommodation based on the potential impact of a disability should contact the Disability Support Services office at 202‐994‐8250 in the Rome Hall, Suite 102, to establish eligibility and to coordinate reasonable accommodations. For additional information please refer to: https://disabilitysupport.gwu.edu/\nCounseling and Psychological Services (CAPS) 202‐994‐5300\nThe University’s Counseling and Psychological Services (CAPS) offers 24/7 assistance and referral to address students’ personal, social, career, and study skills problems. Services for students include: crisis and emergency mental health consultations confidential assessment, counseling services (individual and small group), and referrals. https://healthcenter.gwu.edu/counseling-and-psychological-services",
+    "crumbs": [
+      "Grading and Course Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#academic-integrity-code",
+    "href": "policies.html#academic-integrity-code",
+    "title": "Course policies",
+    "section": "Academic Integrity Code",
+    "text": "Academic Integrity Code\nAcademic dishonesty is defined as cheating of any kind, including misrepresenting one’s own work, taking credit for the work of others without crediting them and without appropriate authorization, and the fabrication of information. You are not allowed to collaborate on the home works and lab assignments; for programming projects and hardware lab assignments, you can work in teams only if they are designated as team projects (labs). Unless otherwise specified, you cannot search for solutions or code on the web – but you can use any code that is included in the textbook or lecture notes (but please cite them). I will be using a SW tool that checks for program code similarities – any pair of programs or written reports with greater than 10% similarity will be closely examined.\nThe Office of Academic Integrity maintains a permanent record of the violation. More information is available from the Office of Academic Integrity at https://students.gwu.edu/cesa. The University’s “Guide of Academic Integrity in Online Learning Environments” is available at https://students.gwu.edu/cesa. Contact information: rights@gwu.edu or 202-994-6757.",
+    "crumbs": [
+      "Grading and Course Policies"
     ]
   },
   {
