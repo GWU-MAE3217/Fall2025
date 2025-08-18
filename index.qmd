@@ -1,6 +1,6 @@
 ---
 title: Fluid Mechanics Laboratory 
-subtitle: where fluid mechamics comes to life!
+subtitle: Where fluid mechanics comes to life!
 format:
   html:
     code-copy: false
@@ -63,8 +63,11 @@ Bulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mec
 </head>
 <body>
 
-<div class="row">
-  <div class="column">
+ <!-- "float: left;  -->
+<img src="/images/noun-fluid-dynamics-5399410.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;" /><br>
+ <p><font size="1">
+ Sourece: fluid dynamics by M. Oki Orlando from <a href="https://thenounproject.com/browse/icons/term/fluid-dynamics/" target="_blank" title="fluid dynamics Icons">Noun Project</a> (CC BY 3.0)</font></p>
+
 This <strong>laboratory course</strong> teaches the following topics through experiments and recitations: 
 
 - Usage of basic of fluid properties, fluid statics 
@@ -72,15 +75,9 @@ This <strong>laboratory course</strong> teaches the following topics through exp
 - Laboratory-based application Bernoulli’s equation, dimensional analysis and similitude
 - Applications of inviscid and viscous flow. 
 - Experiments and introductory-level Python Programming in fluid mechanics 
- </div>
 
- <div class="column">
- <!-- "float: left;  -->
-<img src="/images/noun-fluid-dynamics-5399410.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;" /><br>
- <p><font size="1">
- Sourece: fluid dynamics by M. Oki Orlando from <a href="https://thenounproject.com/browse/icons/term/fluid-dynamics/" target="_blank" title="fluid dynamics Icons">Noun Project</a> (CC BY 3.0)</font></p>
- </div>
-</div> 
+
+
 <br>
 
 
