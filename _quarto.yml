@@ -23,7 +23,7 @@ website:
       - href: agenda.qmd
         text: Schedule 
       - href: instructor.qmd
-        text: Instructor
+        text: Instruction Team
 
       # - section: "Getting Started (Prerequisites)"
       #   contents: 

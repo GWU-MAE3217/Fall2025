@@ -1,5 +1,5 @@
 ---
-title: "Instructor"
+title: "Instruction Team"
 format: 
   html:
     code-copy: false
