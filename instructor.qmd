@@ -96,15 +96,15 @@ Swastika Bera is a Ph.D. student in the Department of Mechanical and Aerospace E
 <table>
   <tr>
     <td width="60%">
-Salman Niazi is a junior in the Department of Mechanical and Aeropace Engineering, GWU.
+Salman Niazi is a senior studying Mechanical and Aerospace Engineering at The George Washington University. He currently works as an undergraduate research assistant in the Micropropulsion and Nanotechnology Laboratory, where his focus is on air-breathing plasma thrusters and advanced propulsion systems. Salman has also gained industry experience through internships in the energy industry, where he worked on HVAC design and energy systems. Salman has previously been an Undergraduate Learning Assistant for the past two years and has loved every moment of it. He enjoys supporting students in and out of the classroom, fostering collaboration, and helping them gain confidence in tackling challenging concepts. Outside of class, Salman loves biking, exploring new cafes, and discussing emerging technologies.
     </td>
     <td width="40%">
-      <img src="images/team/GWU_Logo.png" alt="instructor" style="object-fit:contain width:200px;height:200px; margin-right: 10px;" />
+      <img src="images/team/SalmanNiaziHeadShot.JPG" alt="instructor" style="object-fit:contain width:200px;height:200px; margin-right: 10px;" />
       <!-- <small>Dr. Kartik Bulusu</small><br> -->
 
       **Office hours and Location:** TBA 
 
-      **Email:** TBA
+      **Email:** salmank437 at gwmail dot gwu dot edu
 
       [**LinkedIn**] TBA
     </td>
@@ -126,7 +126,7 @@ She is originally from Washington state where natural water sources are abundant
 
       **Office hours and Location:** TBA 
 
-      **Email:** TBA
+      **Email:** lucytruemper at gwmail dot gwu dot edu
 
       [**LinkedIn**]TBA
     </td>
